@@ -1,8 +1,9 @@
 # Extend US Keyboard layout with German umlauts
 
-A set of `xmodmap` commands / configurations to enable German umlauts on a US keyboard.
+`xmodmap` configuration file which enable German umlauts on a US keyboard.
 
-Tested on Fedora with an Logitech and Lenovo keyboard.
+Tested on Fedora 32 with "English (US)" keyboard layout in the Gnome settings
+(and an attached US keyboard layout).
 
 | Key   | with Alt Gr |
 | ----- | ----------- |
